@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.jhr.boot.elasticsearch.sql.ElasticSearchSqlAutoConfiguration
